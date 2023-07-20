@@ -1,5 +1,5 @@
-## Chatbot ( CS-F407 Artificial Intelligence Assignment )
-Submitted to Dr. Aneesh Chivukula
+## Chatbot ( CS-F407 Artificial Intelligence Design Project )
+## Submitted to Dr. Aneesh Chivukula
 
 >Group details
 
