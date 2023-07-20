@@ -38,5 +38,5 @@ This will spin up the flask server. Navigate to ``` https://localhost:5000 ``` t
 ### Development Mode
 Make requests to the endpoints to get a response. 
 
-
+The report for the same is made in **CRISP-DM Methodology** and is available in both .docx and .pdf format. 
 
