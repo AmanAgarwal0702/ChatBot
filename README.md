@@ -1,27 +1,31 @@
-## Chatbot ( Artificial Intelligence Assignment )
->Group details     
-Afroz Ahamad : 2015A7PS0119H    
-Keval Morabia: 2015A7PS0143H    
-Nikhil Joshi : 2015A7PS0179H    
+## Chatbot ( CS-F407 Artificial Intelligence Assignment )
+Submitted to Dr. Aneesh Chivukula
+
+>Group details
+
+Aman Agarwal   : 2020B4AA2328H  
+Gauri Tewari   : 2020B4A32314H    
+Kartik CHitoor : 2020B4A81617H  
 
 
-Chat bot responding to five endpoints:      
-	- index => welcome    
+Chatbot responding to endpoints:      
+	- index => welcome   
+ 	- eateries present in BITS Hyderabad
 	- / => atomic patters    
 	- weather    
 	- computers    
-	- eateries   
+ 	- Astrology
+and many more
 
-Weather data collected from forecast.io    
+Weather data collected from Weatherbit.io    
 
-Secret key is inside the code itself.
-> Remove secret key before making repo public
+The secret key was removed before making the repo public. A sample of fetching weather is present in the report
+on page number 17. To get real-time data, please add your secret (API) key from [rapidapi.com](https://rapidapi.com/weatherbit/api/weather)
 
-Also added is a sample response from forecast.io inside `templates/*.weather` file. Use that to parse sensible data to be returned by the chat bot.
 
 ### Requirements
 
-Run the following to run the chatbot.    
+You can just run the following to run the chatbot.    
 ```$ pip3 install -r requirements.txt```
 
 ### Running
@@ -32,10 +36,7 @@ This will spin up the flask server. Navigate to ``` https://localhost:5000 ``` t
 
 
 ### Development Mode
-Make requests to the endpoints to get response. 
+Make requests to the endpoints to get a response. 
 
-``` https://localhost/respond/<query> ```
-
-Making requests: [Postman](https://www.getpostman.com/)
 
 
